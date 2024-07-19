@@ -862,3 +862,8 @@ footer span a:hover {
     line-height: 38px;
   }
 }
+
+.gdoc{
+  height: 600px;
+  width: 95%;
+}
