@@ -474,7 +474,7 @@ section .title::after {
 }
 
 .skills-content .right .php::before {
-  width: 75%;
+  width: 85%;
   border-radius: 20px;
 }
 
